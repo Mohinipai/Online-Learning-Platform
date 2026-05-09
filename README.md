@@ -2,8 +2,6 @@
 
 EduNova is a premium, full-stack online learning platform designed to provide an immersive and high-performance educational experience. Built with **React** on the frontend and **Spring Boot** on the backend, it features a modern, dark-themed aesthetic with a focus on visual excellence and user engagement.
 
-![EduNova Banner](https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6)
-
 ## 🚀 Key Features
 
 ### 🎓 For Students
